@@ -336,7 +336,3 @@ After the user moves the mouse, the corresponding angle of view will also follow
 
    After the user hits the target for the first shot, the target will enter the crazy mode, and the target will change from regular movement to irregular random appearance. Greatly enhances the independence of the game, thus enhancing the user's experience
 
-##  **Video Report** 
-
-[]: https://youtu.be/CXKqZ4lzpc4
-
